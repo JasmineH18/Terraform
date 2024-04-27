@@ -1,5 +1,6 @@
 Below are the resources I've used and will use to learn pertaining to the Terraform project.
 
-•	https://developer.hashicorp.com/terraform/tutorials/azure-get-started
+• https://developer.hashicorp.com/terraform/tutorials/azure-get-started
 • https://developer.hashicorp.com/terraform/tutorials/networking
 • https://developer.hashicorp.com/terraform/tutorials/security
+• https://developer.hashicorp.com/terraform/tutorials/kubernetes
